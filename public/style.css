@@ -1,0 +1,12 @@
+nav {
+  opacity: .8;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  color: #6affe7ff;
+}
+#carouselmed {
+	width:300px;
+	height:250px;
+	background-color:rgb(46, 47, 51);
+}
